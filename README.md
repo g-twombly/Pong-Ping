@@ -1,2 +1,3 @@
 # Pong-Ping
-Ping pong game project
+Ping pong game project.
+Created by gtwomby, jgomez, yishuc, jyoon.
